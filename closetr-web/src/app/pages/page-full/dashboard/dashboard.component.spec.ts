@@ -25,6 +25,7 @@ describe('DashboardComponent', () => {
         FormsModule,
         RouterTestingModule,
         HttpClientTestingModule
+		
       ],
       declarations: [
         MockBudgetWidgetComponent,
